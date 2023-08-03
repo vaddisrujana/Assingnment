@@ -1,0 +1,41 @@
+.para {
+  font-family: "Roboto";
+  font-size: 20px;
+  color: #ffffff;
+}
+.image {
+  height: 25vh;
+  border-radius: 25px;
+  padding: 10px;
+}
+.firstDay-background {
+  padding: 20px;
+  background-color: skyblue;
+}
+
+.background-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+}
+
+.day1-heading {
+  color: orange;
+  text-align: center;
+}
+
+.day {
+  border-width: 0;
+  background-color: transparent;
+  color: green;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.day-button {
+  display: flex;
+  justify-content: center;
+}

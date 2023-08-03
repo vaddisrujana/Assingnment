@@ -1,0 +1,31 @@
+.tour-container {
+  background-image: url("https://res.cloudinary.com/dxq7q10cl/image/upload/v1691047571/masai-mara_ngglq7.jpg");
+  height: 70vh;
+  width: 50vw;
+  background-size: cover;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tour-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+}
+.tour-heading {
+  color: #ffffff;
+}
+.booknow-button {
+  border-color: #ffffff;
+  color: #ffffff;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 25px;
+  font-size: 20px;
+}

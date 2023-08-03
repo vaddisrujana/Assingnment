@@ -1,0 +1,23 @@
+.overView-background {
+  background-color: skyblue;
+  height: 70vh;
+  width: 50vw;
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 25px;
+}
+.background1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.overview-heading {
+  color: orange;
+  text-align: center;
+}
+.overview-para {
+  font-family: "Roboto";
+  font-size: 20px;
+  color: #ffffff;
+}
